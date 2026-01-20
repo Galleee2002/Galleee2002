@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Gael Garcia! 👋
 
-<!--
-**Galleee2002/Galleee2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Links
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Galleee2002)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-garcia-07b486294/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm **Gael García**, a frontend developer specializing in **UI/UX**, focused on building modern, scalable, and well-structured interfaces. I mainly work with **React, Next.js, and TypeScript**, prioritizing clean code, performance, accessibility, and user experience.
+
+I enjoy developing real-world products end-to-end: from project structure, visual design, and frontend architecture to backend service integration, authentication, and payments. I love optimizing, refactoring, and turning designs into clean, maintainable code.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+
+
+### ⚛️ Frontend
+
+
+
+### 🧩 UI & Styling
+
+
+
+### 🔥 Backend & Services
+
+
+---
+
+## 📊 GitHub Stats
+
+
+![Gael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galleee2002&show_icons=true&theme=transparent)
+
+
+
+---
+
+## 💻 Languages Stats
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galleee2002&layout=compact&theme=transparent)
+
+
