@@ -16,34 +16,47 @@ I enjoy developing real-world products end-to-end: from project structure, visua
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+</p>
 
 ### ⚛️ Frontend
-
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+</p>
 
 ### 🧩 UI & Styling
-
-
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" alt="shadcn/ui" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+</p>
 
 ### 🔥 Backend & Services
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://supabase.com/favicon.ico" width="40" alt="Supabase" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
+<div align="center">
 
 ![Gael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galleee2002&show_icons=true&theme=transparent)
 
-
+</div>
 
 ---
 
 ## 💻 Languages Stats
-
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galleee2002&layout=compact&theme=transparent)
 
-
+</div>
