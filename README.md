@@ -40,8 +40,7 @@ I enjoy developing real-world products end-to-end: from project structure, visua
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-<img src="https://supabase.com/docs/img/supabase-logo-icon.svg" width="40" alt="Supabase" /></p>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" alt="Supabase" />
 ---
 
 ## 📊 GitHub Stats
